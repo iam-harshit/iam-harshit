@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Jest**
 - 👯 I’m looking to collaborate on **React Open Source Project**
 - 💬 Ask me about **React**, **JavaScript**, **tailwindcss**
-- 📫 How to reach me: **📧 Email: [harshitkumar0406@gmail.com](mailto:harshitkumar0406@gmail.com) or 🌐 LinkedIn: [Harshit Kumar](https://www.linkedin.com/in/harshit-kumar-798b00193/)**
+- 📫 How to reach me: **📧 [Email](mailto:harshitkumar0406@gmail.com) or 🌐 [LinkedIn](https://www.linkedin.com/in/harshit-kumar-798b00193/)**
 - 😄 Pronouns: **he/him/his**
 - ⚡ Fun fact: **Big Fan of the 🔥 emoji**
 
@@ -22,7 +22,7 @@
 
 ## 📊 My GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iam-harshit&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iam-harshit&theme=radical&hide_border=true&card_width=440)](https://git.io/streak-stats)
 [![Harshit GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-harshit&show_icons=true&theme=radical&rank_icon=percentile&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's connect:
