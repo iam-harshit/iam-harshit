@@ -2,9 +2,9 @@
 
 #### I'm Harshit, a passionate Frontend Developer from India.
 
-- 🔭 I’m currently working in **Crio.Do**
-- 🌱 I’m currently learning **Jest**
-- 👯 I’m looking to collaborate on **React Open Source Project**
+- 🔭 I’m currently exploring the **Tech World**
+- 🌱 I’m currently learning **React-Native**
+- 👯 I’m currently collaborating in **Curious Connect Open Source Project**
 - 💬 Ask me about **React**, **JavaScript**, **tailwindcss**
 - 📫 How to reach me: **📧 [Email](mailto:harshitkumar0406@gmail.com) or 🌐 [LinkedIn](https://www.linkedin.com/in/harshit-kumar-798b00193/)**
 - 😄 Pronouns: **he/him/his**
